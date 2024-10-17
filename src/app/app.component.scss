@@ -1,0 +1,50 @@
+.btn {
+  border: none;
+  padding: 0.5rem 1rem;
+  border-radius: 4px;
+  cursor: pointer;
+  &-primary {
+    background-color: blue;
+    color: white;
+  }
+}
+
+.flex {
+  display: flex;
+}
+
+.items-center {
+  align-items: center;
+}
+
+.justify-center {
+  justify-content: center;
+}
+.w-screen {
+  width: 100dvw;
+}
+.w-full {
+  width: 100%;
+}
+.h-screen {
+  height: 100dvh;
+}
+.h-full {
+  height: 100%;
+}
+.gap-1 {
+  gap: 1rem;
+}
+
+.gap-2 {
+  gap: 1.5rem;
+}
+.gap-3 {
+  gap: 2rem;
+}
+.gap-4 {
+  gap: 2.5rem;
+}
+.gap-5 {
+  gap: 3rem;
+}
